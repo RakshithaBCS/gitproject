@@ -1,6 +1,6 @@
 
-HELLO!!
+HII!!
 
-int a=10
-int b=20
-int k=a+b
+int j=10
+int i=20
+int m=i+j
